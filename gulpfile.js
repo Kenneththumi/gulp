@@ -1,4 +1,8 @@
-
+/**
+ * Cytonn Technologies
+ * @author Kenneth Thumi<kthumi.cytonn.com>
+ *
+ */
 /* include the plugins to use */
 var gulp=require('gulp'),
     uglify=require('gulp-uglify'),
